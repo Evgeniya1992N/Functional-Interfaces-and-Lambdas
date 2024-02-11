@@ -40,7 +40,7 @@ public class Main {
         // Task 2 Лямбда-выражение
         Consumer<String> greetingLambda = name -> System.out.println("Привет, " + name + "!");
 
-        greetingLambda.accept("Мария");
+        greetingLambda.accept("Марина");
 
         // Task 3 Анонимный класс
         Function<Double, Long> roundFunction = new Function<Double, Long>() {
