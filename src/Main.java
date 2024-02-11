@@ -86,12 +86,12 @@ public class Main {
     }
 }
 
-    // public static <T, R> Function<T, R> ternaryOperator(
-    //   Predicate<T> condition,
-    //    Function<T, R> ifTrue,
-    //    Function<T, R> ifFalse) {
-    // return condition.test(x) ? isTrue.apply(x) : isFalse.apply(x);
-    // }
+// public static <T, R> Function<T, R> ternaryOperator(
+//   Predicate<T> condition,
+//    Function<T, R> ifTrue,
+//    Function<T, R> ifFalse) {
+// return condition.test(x) ? isTrue.apply(x) : isFalse.apply(x);
+// }
 
 
 
