@@ -16,7 +16,7 @@ public class Main {
             }
         };
         // Проверка
-        System.out.println(predicate.test(4));
+        System.out.println(predicate.test(5));
         System.out.println(predicate.test(-5));
 
         // Task 1 Проверка положительных чисел через лямбду.
